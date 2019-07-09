@@ -38,4 +38,3 @@ class Manager
 		end
 	end
 end
-

@@ -93,11 +93,3 @@ class Product_Index
 		end
 	end
 end
-
-
-
-
-
-
-
-
