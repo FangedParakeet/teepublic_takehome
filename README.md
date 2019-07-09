@@ -1,5 +1,6 @@
 # TeePublic Take Home Test Instructions
 
+
 ## How to run program
 
 Navigate to the root directory and input the following command to install the required gems and run the program.
