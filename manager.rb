@@ -20,6 +20,7 @@ class Manager
 	end
 
 	def getOptions(type)
+		raise NameError, "Could not find product type #{type}"  if @indexes_by_type[type] == nil
 		product_index = @indexes_by_type[type]
 		return product_index.options
 	end
